@@ -207,11 +207,11 @@
     "vue": "^3.5.26",
     "vue-eslint-parser": "^10.2.0",
     "vue-tsc": "^3.2.2",
-    "wasm-pack": "^0.13.1",
+    "wasm-pack": "^0.15.0",
     "yargs-parser": "^21.1.1"
   },
   "overrides": {
-    "axios": "^1.13.2",
+    "axios": "^1.20.0",
     "esbuild": ">0.24.2",
     "readable-stream": "npm:@built-in/readable-stream@1",
     "semver": "^7.7.3",
